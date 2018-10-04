@@ -1,0 +1,26 @@
+# Maven 
+**/target/
+**/dist_*
+**/*_dist
+**/artefatto_*
+
+# IntelliJ project files 
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# eclipse project file
+**/.settings/
+**/.classpath
+**/.project
+
+# OS
+# Misc
+*.swp
+**/release.properties
+**/pom.xml.releaseBackup
+**/pom.xml.tag
+
+**/logs/
+*.log
